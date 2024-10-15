@@ -1,0 +1,18 @@
+{
+  "name": "backend-nodejs-mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Wasif Raza",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
